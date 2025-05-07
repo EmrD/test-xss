@@ -1,1 +1,3 @@
+Content-Type: text/html
+
 <script>alert('XSS via PNG!')</script>
